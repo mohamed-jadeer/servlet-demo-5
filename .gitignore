@@ -1,0 +1,8 @@
+*.class
+*.classpath
+*.project
+.settings/
+.idea/
+build.xml
+build/
+nbproject/
